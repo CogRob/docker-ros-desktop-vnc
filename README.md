@@ -1,8 +1,10 @@
-# docker-ros-desktop-vnc
+# CogRob/docker-ros-desktop-vnc
 
-![Docker Automated build](https://img.shields.io/docker/automated/tiryoh/ros-desktop-vnc)
-[![Publish to Registry](https://github.com/Tiryoh/docker_ros-desktop-vnc/workflows/Publish%20to%20Registry/badge.svg?branch=master)](https://github.com/Tiryoh/docker-ros-desktop-vnc/actions?query=workflow%3A%22Publish+to+Registry%22+branch%3Amaster)
-[![](https://img.shields.io/docker/pulls/tiryoh/ros-desktop-vnc.svg)](https://hub.docker.com/r/tiryoh/ros-desktop-vnc)
+Docker image based on [Tiryoh/docker-ros-desktop-vnc](https://github.com/Tiryoh/docker-ros-desktop-vnc) with some custom adjustments.
+
+Maintainer: Andi Frank (a2frank@eng.ucsd.edu)
+
+# Original README
 
 A Docker image to provide HTML5 VNC interface to access Ubuntu LXDE + ROS, based on [dorowu/ubuntu-desktop-lxde-vnc](https://github.com/fcwu/docker-ubuntu-vnc-desktop)
 
